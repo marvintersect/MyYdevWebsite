@@ -14,6 +14,10 @@ These are Things I like;
 - Soccer
 - Anime
 
+---
+| A Text | B Text | C Text|
+|--------|--------|-------|
+
 
 ### Image
 ![A Macbook](https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/K/T/160939_1597789659.jpg)
