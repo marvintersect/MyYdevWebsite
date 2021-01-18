@@ -17,6 +17,7 @@ These are Things I like;
 ---
 | A Text | B Text | C Text|
 |--------|--------|-------|
+|Legend|Beast|Dragon|
 
 
 ### Image
