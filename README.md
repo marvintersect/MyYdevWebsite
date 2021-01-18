@@ -1,6 +1,8 @@
 # MyYdevWebsite
-
-## A Second Header
-
-### A Third Header
 A Simple Website
+
+## Bio
+Software Engineer based in Abuja
+
+### Image
+
