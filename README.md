@@ -2,7 +2,7 @@
 A Simple Website
 
 ## Bio
-I'm a **Software Engineer** who likes chocolate cake and ~~chocolate flavored ice-cream~~ and is based in *Abuja, Nigeria*.
+I'm a **Software Engineer** who likes chocolate cake and ~~chocolate flavored ice-cream~~ and is based in *Abuja, Nigeria*.<br>
 If you want to see some interesting things about me, you can follow me on twitter [@marvinoka4](https://twitter.com/marvinoka4)
 
 ### Image
