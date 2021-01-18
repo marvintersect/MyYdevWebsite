@@ -10,6 +10,9 @@ These are Things I like;
 - Chocolate
 - Cake
 - Ice Cream
+- Video Games
+- Soccer
+- Anime
 
 
 ### Image
